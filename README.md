@@ -53,3 +53,10 @@ Always set up multifactor authentication (MFA) on your root account
 AWS Certified Developer - Associate 2020 - Beginner Guide to IAM Quiz
 
 
+## Which of the following is NOT a feature of IAM?
+
+1. Integrates with existing active directory account allowing single sing on
+2.Fine-grained access control to AWS resources
+3. Centralized control of your AWS Account
+**4. Allows you to set up biometric authentication, so that no passwords are required - Answer**
+
