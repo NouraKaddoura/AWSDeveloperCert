@@ -24,8 +24,10 @@ What does IAM give you?
 
 ## Critical Terms
 
-**Users** - End Users (think people)
-**Groups** - Collection of users under one set of permissions
-**Roles** - You can create roles and can then assign them to AWS resources 
-**Policies** - document that defines one (or more) permissions
+1. **Users** - End Users (think people)
+2. **Groups** - Collection of users under one set of permissions
+3. **Roles** - You can create roles and can then assign them to AWS resources 
+4. **Policies** - document that defines one (or more) permissions
 
+
+## Identity Access Management Lab
