@@ -21,3 +21,11 @@ What does IAM give you?
 - Integrates with many different AWS services
 - Supports PCI DSS Compliance
 
+
+## Critical Terms
+
+**Users** - End Users (think people)
+**Groups** - Collection of users under one set of permissions
+**Roles** - You can create roles and can then assign them to AWS resources 
+**Policies** - document that defines one (or more) permissions
+
