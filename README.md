@@ -36,3 +36,20 @@ https://nourakaddouradevelopercert.signin.aws.amazon.com/console
 
 
 IAM is global
+Practice creating groups, policies, users. (Policy Documents)
+Deny will override all Allows
+
+IAM is unerversal. It does not apply to regions at this time. The root account is simply the account created when first setup your aws account. It has complete admin access. 
+
+new users have no permissions when first created. 
+
+New users are assigned access key ID & secret access keys when first created. not the same as password you cannot use it to access aws console. 
+
+Only get to view the file for access keys one time - when you create them.
+
+Always set up multifactor authentication (MFA) on your root account
+
+
+AWS Certified Developer - Associate 2020 - Beginner Guide to IAM Quiz
+
+
