@@ -12,3 +12,12 @@ Domain 5: Monitoring & Troubleshooting: 12%
 What does IAM give you?
 
 - Centralized control of your AWS Account
+- Shared access to your AWS account
+- Granular permissions
+- Identify federation (including active directory, facebook, linkedin, etc)
+- Multifactor AUthentication
+- Provides temporary access for users/devices and services, as necessary
+- Allows you to set up your own password rotation policy
+- Integrates with many different AWS services
+- Supports PCI DSS Compliance
+
