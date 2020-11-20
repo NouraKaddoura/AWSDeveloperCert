@@ -33,3 +33,6 @@ What does IAM give you?
 ## Identity Access Management Lab
 
 https://nourakaddouradevelopercert.signin.aws.amazon.com/console
+
+
+IAM is global
